@@ -1,71 +1,75 @@
-[
-    {
-        "data": {
-            "imgUrl": [
-                "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
-                "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
-                "https://static1.keepcdn.com/2018/06/24/23/1529853506550_750x338.png"
-            ],
-            "title": [
-                "超级活动1",
-                "超级活动2",
-                "超级活动3"
-            ]
+{
+    "errorCode": 200,
+    "errorDesc": "success",
+    "results": [
+        {
+            "data": {
+                "imgUrl": [
+                    "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                    "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
+                    "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
+                    "https://static1.keepcdn.com/2018/06/24/23/1529853506550_750x338.png"
+                ],
+                "title": [
+                    "超级活动1",
+                    "超级活动2",
+                    "超级活动3"
+                ]
+            },
+            "type": 0
         },
-        "type": 0
-    },
-    {
-        "data": {
-            "titles": [
-                "学校",
-                "院系",
-                "已参加"
-            ]
+        {
+            "data": {
+                "titles": [
+                    "学校",
+                    "院系",
+                    "已参加"
+                ]
+            },
+            "type": 1
         },
-        "type": 1
-    },
-    {
-        "data": {
-            "hasMore": false,
-            "title": "XX学校活动"
+        {
+            "data": {
+                "hasMore": false,
+                "title": "XX学校活动"
+            },
+            "type": 2
         },
-        "type": 2
-    },
-    {
-        "data": {
-            "author": "XX学校 XX国际学院",
-            "desc": "XX国际学院2018年夏季第一次半马拉松决赛，欢迎大家踊跃参加，奖品优越",
-            "endTime": 1530015074354,
-            "imgUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-            "startTime": 1529928674354,
-            "status": 0,
-            "title": "XX国际学院半马"
+        {
+            "data": {
+                "author": "XX学校 XX国际学院",
+                "desc": "XX国际学院2018年夏季第一次半马拉松决赛，欢迎大家踊跃参加，奖品优越",
+                "endTime": 1530015897142,
+                "imgUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "startTime": 1529929497142,
+                "status": 0,
+                "title": "XX国际学院半马"
+            },
+            "type": 3
         },
-        "type": 3
-    },
-    {
-        "data": {
-            "author": "XX学校 XX国际关系学院",
-            "desc": "XX国际学院2018年清明踏青跑步，欢迎大家踊跃包名，奖品优越",
-            "endTime": 1530015074355,
-            "imgUrl": "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
-            "startTime": 1529928674355,
-            "status": 1,
-            "title": "XX国际学院踏青跑"
+        {
+            "data": {
+                "author": "XX学校 XX国际关系学院",
+                "desc": "XX国际学院2018年清明踏青跑步，欢迎大家踊跃包名，奖品优越",
+                "endTime": 1530015897142,
+                "imgUrl": "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
+                "startTime": 1529929497142,
+                "status": 1,
+                "title": "XX国际学院踏青跑"
+            },
+            "type": 3
         },
-        "type": 3
-    },
-    {
-        "data": {
-            "author": "XX学校 XX国际金融学院",
-            "desc": "XX国际学院2018年端午龙舟赛，粽香龙舟，来一次酣畅淋漓的跑步吧",
-            "endTime": 1530015074355,
-            "imgUrl": "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
-            "startTime": 1529928674355,
-            "status": 2,
-            "title": "XX国际学院端午龙舟赛"
-        },
-        "type": 3
-    }
-]
+        {
+            "data": {
+                "author": "XX学校 XX国际金融学院",
+                "desc": "XX国际学院2018年端午龙舟赛，粽香龙舟，来一次酣畅淋漓的跑步吧",
+                "endTime": 1530015897142,
+                "imgUrl": "https://static1.keepcdn.com/2018/06/22/19/1529668026740_750x340.jpg",
+                "startTime": 1529929497142,
+                "status": 2,
+                "title": "XX国际学院端午龙舟赛"
+            },
+            "type": 3
+        }
+    ]
+}
