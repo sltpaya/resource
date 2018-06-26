@@ -1,6 +1,7 @@
 {
     "errorCode": 200,
     "errorDesc": "success",
+    "hasMore": 1,
     "results": [
         {
             "data": {
