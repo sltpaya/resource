@@ -1,0 +1,158 @@
+{
+    "errorCode": 200,
+    "errorDesc": "success",
+    "hasMore": 0,
+    "results": [
+        {
+            "data": {
+                "hasMore": 0,
+                "title": "XX学校月排行"
+            },
+            "type": 0
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子001",
+                "uid": "0001",
+                "rank": 1
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子002",
+                "uid": "0002",
+                "rank": 2
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子003",
+                "uid": "0003",
+                "rank": 3
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子004",
+                "uid": "0004",
+                "rank": 4
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子005",
+                "uid": "0005",
+                "rank": 5
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子006",
+                "uid": "0006",
+                "rank": 6
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子007",
+                "uid": "0007",
+                "rank": 7
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子008",
+                "uid": "0008",
+                "rank": 8
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "超级兔子009",
+                "uid": "0001",
+                "rank": 9
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "hasMore": 0,
+                "title": "XX系月排行"
+            },
+            "type": 0
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "可爱的蘑菇001",
+                "uid": "0001",
+                "rank": 1
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "可爱的蘑菇002",
+                "uid": "0002",
+                "rank": 2
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "可爱的蘑菇003",
+                "uid": "0003",
+                "rank": 3
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "可爱的蘑菇004",
+                "uid": "0004",
+                "rank": 4
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "uname": "可爱的蘑菇005",
+                "uid": "0005",
+                "rank": 5
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "hasMore": 0,
+                "title": "土木工程一班 月排行"
+            },
+            "type": 0
+        },
+        {
+            "data": {},
+            "type": 2
+        }
+    ]
+}
