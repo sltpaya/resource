@@ -15,7 +15,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子001",
                 "uid": "0001",
-                "rank": 1
+                "rank": 1,
+                "distance": 32.44
             },
             "type": 1
         },
@@ -24,7 +25,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子002",
                 "uid": "0002",
-                "rank": 2
+                "rank": 2,
+                "distance": 23.44
             },
             "type": 1
         },
@@ -34,6 +36,8 @@
                 "uname": "超级兔子003",
                 "uid": "0003",
                 "rank": 3
+                ,
+                "distance": 21.4
             },
             "type": 1
         },
@@ -42,7 +46,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子004",
                 "uid": "0004",
-                "rank": 4
+                "rank": 4,
+                "distance": 21.0
             },
             "type": 1
         },
@@ -51,7 +56,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子005",
                 "uid": "0005",
-                "rank": 5
+                "rank": 5,
+                "distance": 20.4
             },
             "type": 1
         },
@@ -60,7 +66,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子006",
                 "uid": "0006",
-                "rank": 6
+                "rank": 6,
+                "distance": 18.5
             },
             "type": 1
         },
@@ -69,7 +76,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子007",
                 "uid": "0007",
-                "rank": 7
+                "rank": 7,
+                "distance": 18.3
             },
             "type": 1
         },
@@ -79,6 +87,8 @@
                 "uname": "超级兔子008",
                 "uid": "0008",
                 "rank": 8
+                ,
+                "distance": 14.7
             },
             "type": 1
         },
@@ -87,7 +97,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "超级兔子009",
                 "uid": "0001",
-                "rank": 9
+                "rank": 9,
+                "distance": 13.5
             },
             "type": 1
         },
@@ -103,7 +114,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "可爱的蘑菇001",
                 "uid": "0001",
-                "rank": 1
+                "rank": 1,
+                "distance": 12.3
             },
             "type": 1
         },
@@ -112,7 +124,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "可爱的蘑菇002",
                 "uid": "0002",
-                "rank": 2
+                "rank": 2,
+                "distance": 10.44
             },
             "type": 1
         },
@@ -121,7 +134,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "可爱的蘑菇003",
                 "uid": "0003",
-                "rank": 3
+                "rank": 3,
+                "distance": 9.5
             },
             "type": 1
         },
@@ -130,7 +144,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "可爱的蘑菇004",
                 "uid": "0004",
-                "rank": 4
+                "rank": 4,
+                "distance": 8.3
             },
             "type": 1
         },
@@ -139,7 +154,8 @@
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
                 "uname": "可爱的蘑菇005",
                 "uid": "0005",
-                "rank": 5
+                "rank": 5,
+                "distance": 7.2
             },
             "type": 1
         },
