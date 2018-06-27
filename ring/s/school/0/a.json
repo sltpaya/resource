@@ -1,0 +1,46 @@
+{
+    "errorCode": 200,
+    "errorDesc": "success",
+    "hasMore": 0,
+    "results": [
+        {
+            "data": {
+                "author": "番禺职业技术学院 计算机系",
+                "desc": "番禺职业技术学院2018年夏季第一次半马拉松决赛，欢迎大家踊跃参加，奖品优越",
+                "endTime": 1530015897142,
+                "id": "007",
+                "imgUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "startTime": 1529929497142,
+                "status": 0,
+                "title": "计算机系半马"
+            },
+            "type": 3
+        },
+        {
+            "data": {
+                "author": "番禺职业技术学院 计算机系",
+                "desc": "番禺职业技术学院2018年夏季第一次半马拉松决赛，欢迎大家踊跃参加，奖品优越",
+                "endTime": 1530015897142,
+                "id": "007",
+                "imgUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "startTime": 1529929497142,
+                "status": 0,
+                "title": "计算机系半马"
+            },
+            "type": 3
+        },
+        {
+            "data": {
+                "author": "番禺职业技术学院 计算机系",
+                "desc": "番禺职业技术学院2018年夏季第一次半马拉松决赛，欢迎大家踊跃参加，奖品优越",
+                "endTime": 1530015897142,
+                "id": "007",
+                "imgUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
+                "startTime": 1529929497142,
+                "status": 0,
+                "title": "计算机系半马"
+            },
+            "type": 3
+        }
+    ]
+}
