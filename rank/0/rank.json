@@ -12,93 +12,91 @@
         },
         {
             "data": {
+                "distance": 32.44,
                 "headUrl": "http://ww4.sinaimg.cn/large/87c01ec7gy1fss0lrync6j205k05kglm.jpg",
-                "uname": "眼不見心還念",
-                "uid": "0001",
                 "rank": 1,
-                "distance": 32.44
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "http://ww2.sinaimg.cn/large/87c01ec7gy1fss0lrygt3j208c08ct8p.jpg",
-                "uname": "Almost Lover",
-                "uid": "0002",
-                "rank": 2,
-                "distance": 23.44
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "http://ww4.sinaimg.cn/large/87c01ec7gy1fss0ls3lfyj208c08cglp.jpg",
-                "uname": "鹿晗，你好闪啊~",
-                "uid": "0003",
-                "rank": 3
-                ,
-                "distance": 21.4
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "超级兔子004",
-                "uid": "0004",
-                "rank": 4,
-                "distance": 21.0
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "超级兔子005",
-                "uid": "0005",
-                "rank": 5,
-                "distance": 20.4
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "超级兔子006",
-                "uid": "0006",
-                "rank": 6,
-                "distance": 18.5
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "超级兔子007",
-                "uid": "0007",
-                "rank": 7,
-                "distance": 18.3
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "超级兔子008",
-                "uid": "0008",
-                "rank": 8
-                ,
-                "distance": 14.7
-            },
-            "type": 1
-        },
-        {
-            "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "超级兔子009",
                 "uid": "0001",
+                "uname": "眼不見心還念"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 23.44,
+                "headUrl": "http://ww2.sinaimg.cn/large/87c01ec7gy1fss0lrygt3j208c08ct8p.jpg",
+                "rank": 2,
+                "uid": "0002",
+                "uname": "Almost Lover"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 21.4,
+                "headUrl": "http://ww4.sinaimg.cn/large/87c01ec7gy1fss0ls3lfyj208c08cglp.jpg",
+                "rank": 3,
+                "uid": "0003",
+                "uname": "鹿晗，你好闪啊~"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 21.0,
+                "headUrl": "http://ww2.sinaimg.cn/large/87c01ec7gy1fss0ls4ue5j208c08c74g.jpg",
+                "rank": 4,
+                "uid": "0004",
+                "uname": "超级兔子004"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 20.4,
+                "headUrl": "http://ww3.sinaimg.cn/large/87c01ec7gy1fss0lscs87j20dw0jgaad.jpg",
+                "rank": 5,
+                "uid": "0005",
+                "uname": "超级兔子005"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 18.5,
+                "headUrl": "http://ww4.sinaimg.cn/large/87c01ec7gy1fss0lshv12j20dw096glr.jpg",
+                "rank": 6,
+                "uid": "0006",
+                "uname": "超级兔子006"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 18.3,
+                "headUrl": "http://ww3.sinaimg.cn/large/87c01ec7gy1fss0lsjbzej20b40b4dfv.jpg",
+                "rank": 7,
+                "uid": "0007",
+                "uname": "超级兔子007"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 14.7,
+                "headUrl": "http://ww4.sinaimg.cn/large/87c01ec7gy1fss0lsncrnj205k05kwec.jpg",
+                "rank": 8,
+                "uid": "0008",
+                "uname": "超级兔子008"
+            },
+            "type": 1
+        },
+        {
+            "data": {
+                "distance": 13.5,
+                "headUrl": "http://ww4.sinaimg.cn/large/87c01ec7gy1fss0lspc0gj20dw0dwjrx.jpg",
                 "rank": 9,
-                "distance": 13.5
+                "uid": "0001",
+                "uname": "超级兔子009"
             },
             "type": 1
         },
@@ -111,51 +109,51 @@
         },
         {
             "data": {
-                "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "可爱的蘑菇001",
-                "uid": "0001",
+                "distance": 12.3,
+                "headUrl": "http://ww3.sinaimg.cn/large/87c01ec7gy1fss0lsq6hlj20b40b474o.jpg",
                 "rank": 1,
-                "distance": 12.3
+                "uid": "0001",
+                "uname": "可爱的蘑菇001"
             },
             "type": 1
         },
         {
             "data": {
+                "distance": 10.44,
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "可爱的蘑菇002",
-                "uid": "0002",
                 "rank": 2,
-                "distance": 10.44
+                "uid": "0002",
+                "uname": "可爱的蘑菇002"
             },
             "type": 1
         },
         {
             "data": {
+                "distance": 9.5,
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "可爱的蘑菇003",
-                "uid": "0003",
                 "rank": 3,
-                "distance": 9.5
+                "uid": "0003",
+                "uname": "可爱的蘑菇003"
             },
             "type": 1
         },
         {
             "data": {
+                "distance": 8.3,
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "可爱的蘑菇004",
-                "uid": "0004",
                 "rank": 4,
-                "distance": 8.3
+                "uid": "0004",
+                "uname": "可爱的蘑菇004"
             },
             "type": 1
         },
         {
             "data": {
+                "distance": 7.2,
                 "headUrl": "https://static1.keepcdn.com/2018/06/21/20/1529583246360_750x340.jpg",
-                "uname": "可爱的蘑菇005",
-                "uid": "0005",
                 "rank": 5,
-                "distance": 7.2
+                "uid": "0005",
+                "uname": "可爱的蘑菇005"
             },
             "type": 1
         },
